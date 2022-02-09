@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kuppylee/kuppylee/main/header.jpg" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kuppylee/kuppylee/main/header.jpeg" />
 
 <br/>
 
