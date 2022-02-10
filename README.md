@@ -13,7 +13,7 @@ I am a passionate Mobile developer and a freelance software tester from Lagos, N
 
  <br/>
  
-- 🔭 I’m currently working with swift for ios development using UIkit and swiftUI, Dart for cross platforms development using flutter, and recently, Java for Selenium and Appium for automation testing. I have built and still building awesome products and I can work in a cross functional environment. Github serves as a host for the projects I've been working on as well as fun projects I'll be using to learn new concepts and frameworks.
+- 🔭 I’m currently working with swift for ios development using UIkit and swiftUI, Dart for cross platforms mobile development using flutter, and recently, Java for Selenium and Appium for automation testing. I have built and still building awesome products and I can work in a cross functional environment. Github serves as a host for the projects I've been working on as well as fun projects I'll be using to learn new concepts and frameworks.
 
 <br/>
 
