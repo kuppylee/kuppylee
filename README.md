@@ -39,6 +39,9 @@ I am a passionate Mobile developer and a freelance software tester from Lagos, N
    <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kuppylee&show_icons=true&theme=gotham" alt="kuppylee" />
   </td>
   <td>
+   <p align="bottom" <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuppylee&hide_title=1" alt="kuppylee" />
+  </td>
+  <td>
     <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kuppylee/kuppylee/main/code.gif?raw=true" width="400" height="320" />
   </td>
  </tr>
